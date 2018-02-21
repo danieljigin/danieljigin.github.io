@@ -3,7 +3,6 @@ body, div, h1, h2, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textar
 }
 
 body {
-	background: #f2f0eb url(images/bg.png);
 	font: 16px Helvetica, Arial, Sans-Serif; color: #636363; line-height: 24px;
 }
 
